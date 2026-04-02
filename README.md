@@ -1,2 +1,2 @@
-# ArgyHub ReWork    
+# ArgyHub ReWork - Telegram Userbot
 ArgyHub - это небольшой проект, точнее скрипт юзербота для Telegram с открытым исходным кодом.
