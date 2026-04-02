@@ -57,3 +57,8 @@ python main.py
 py main.py
 ```
 8. Готово! Используйте на здоровье.
+
+### Получение API_ID и API_HASH
+
+1. Заходите на my.telegram.org и вводите там свой номер и вставляете код в пустое поле под номером.
+2. Потом нажимаете на [API development tools](https://my.telegram.org/apps)
